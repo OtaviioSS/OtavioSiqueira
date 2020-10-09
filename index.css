@@ -1,0 +1,90 @@
+body {
+    background-image: url(img/ocean.jpg);
+    color: white;
+}
+
+.quemsoutext {
+    font-size: 18pt;
+    text-align: justify;
+}
+
+.page1 {
+    text-align: center;
+    background-color: #00000065;
+}
+
+.page2 {
+    background-color: #00000042;
+}
+
+#textcapa h1 {
+    text-align: center;
+    color: #4f98ca;
+    font-size: 80pt;
+}
+
+#textcapa h2 {
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    font-size: 30pt;
+}
+
+#textcapa .androidtext {
+    margin-top: 10px;
+    font-size: 40pt;
+    text-align: center;
+    color: #50d890;
+}
+
+.socialbar a {
+    margin-left: 10px;
+    font-size: 16pt;
+}
+
+.iconAppPS {
+    border-radius: 50px;
+    margin: 20px;
+    text-align: center;
+}
+
+.iconAppPS :hover {
+    text-align: center;
+    width: 280px;
+}
+
+.page3 {
+    text-align: center;
+    background-color: #00000065;
+}
+
+.apps a {
+    text-decoration: none;
+    color: white;
+}
+
+.socialicon :hover {
+    width: 80px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 100px;
+    text-decoration-style: none;
+    border-width: 5px;
+    border-color: #78c9ff;
+    border-style: outset;
+}
+
+.form-group {
+    text-align: start;
+    width: 400px;
+}
+
+.contact-label {
+    font-size: 18pt;
+}
+
+.navbar-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
